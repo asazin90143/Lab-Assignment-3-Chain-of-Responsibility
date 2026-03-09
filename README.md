@@ -1,6 +1,6 @@
-#**Automated Waste Management System
+**Automated Waste Management System**
 
-##**Background:**Municipalities and cities face significant challenges in managing and efficiently
+**Background:** Municipalities and cities face significant challenges in managing and efficiently
 disposing of waste. Traditional waste collection methods often result in delays, inefficiencies,
 and high operational costs. An innovative solution is needed to automate the waste
 management process, ensuring timely collection and disposal while optimizing resource
@@ -10,7 +10,7 @@ responsibility pattern to ensure efficient waste collection and disposal. The sy
 handle different types of waste containers and trigger appropriate disposal actions based on the
 type and capacity of each container.
 
-##**Requirements:**
+**Requirements:**
 
 1. **Waste Container:** Create a class to represent waste containers, each with a specific
     capacity and type of waste (e.g., organic, recyclable, hazardous).
@@ -26,6 +26,7 @@ type and capacity of each container.
        the type and capacity of the waste container.
 4. **Validation:** Ensure that waste containers are correctly identified and disposed of by the
     appropriate waste collector in the chain.
+   
 Your solution should include in your github account:
 1. Problem Statement
 2. UML Diagram
